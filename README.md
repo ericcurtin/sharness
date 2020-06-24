@@ -155,6 +155,7 @@ See how Sharness is used in real-world projects:
 * [rdd.py](https://github.com/mlafeldt/rdd.py/tree/master/test/integration)
 * [Sharness itself](/test)
 * [tomdoc.sh](https://github.com/mlafeldt/tomdoc.sh/tree/master/test)
+* [inotify-tools](https://github.com/inotify-tools/inotify-tools)
 
 Furthermore, as Sharness was derived from Git, [Git's test suite](https://github.com/git/git/tree/master/t)
 is worth examining as well, especially if you're interested in managing a big
@@ -173,7 +174,6 @@ Here is a list of other shell testing libraries (sorted alphabetically):
 * [shspec](https://github.com/shpec/shpec)
 * [testlib.sh](https://gist.github.com/3877539)
 * [ts](https://github.com/thinkerbot/ts)
-* [inotify-tools](https://github.com/inotify-tools/inotify-tools)
 
 ## License
 
